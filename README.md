@@ -1,7 +1,5 @@
 # EPL football matches predictions
-<p align="center">
-  <img src="https://i.ibb.co/tJdy3J2/Screen-Shot-2021-05-05-at-16-28-02.png" alt="Preview"/>
-</p>
+<img src="https://i.ibb.co/tJdy3J2/Screen-Shot-2021-05-05-at-16-28-02.png" alt="Preview"/>
 
 The purpose of this project is to predict the score of the match based on the past games of these clubs since 1993 ⚽️📊. Based on these results, you can roughly understand who is the favorite of the match. Although football is an unpredictable game, I think all fans of this sport would be interested to see the estimated score of the match and its percentage of the possible outcome.
 
